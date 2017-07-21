@@ -1,2 +1,2 @@
 # kaifanla-ordering
-angularJS
+angularJS project practice
