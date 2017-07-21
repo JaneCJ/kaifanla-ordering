@@ -1,0 +1,23 @@
+body {
+    margin: 80px 0 100px 0;
+}
+/****start****/
+.start {
+    margin-top: 150px;
+}
+.start h1,.start img {
+    cursor: pointer;
+}
+
+/****footer****/
+.navbar-footer-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar-footer-menu li {
+    display: inline-block;
+    line-height: 60px;
+    width: 30%;
+    text-align: center;
+}
